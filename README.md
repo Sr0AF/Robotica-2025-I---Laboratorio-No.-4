@@ -18,3 +18,14 @@ El presente laboratorio tiene como propósito aplicar los conceptos de cinemáti
 
 ## Mediciones
 Se establecieron los eslabones, las articulaciones y posteriormente se establecieron las longitudes de eslabón para cada articulación del robot Phantom X Pincher utilizando un calibrador.
+
+<img width="1080" height="1500" alt="Agregar algo de texto" src="https://github.com/user-attachments/assets/908c1782-be73-4999-83a2-8d9f61bfa204" />
+
+## Análisis
+A partir del anterior diagrama se obtuvieron los parámetros DH del robot Phantom X Pincher.
+   | i | θi | di | ai | α |
+   | :---         |     :---:      |          :---: |          :---: |          :---: |
+   | 1 | q1 | 113 | 0 | π/2 |
+   | 2 | q2 | 0 | 100.7 | 0 |
+   | 3 | q3 | 0 | 100.7 | 0 |
+   | 4 | q4 | 0 | 85 | π/2 |
