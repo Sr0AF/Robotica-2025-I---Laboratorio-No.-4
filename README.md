@@ -199,7 +199,7 @@ A continuación, se presenta la prueba de funcionamiento del sistema desarrollad
 
 <a href="https://youtu.be/V9QOOdnRqKE">Video del desarrollo</a>
 
-Por último el código python para el control de los servomotores se encuentra en el directorio <a href="">control_servo</a>
+Por último el código python para el control de los servomotores se encuentra en el directorio <a href="pincher_control/pincher_control/pincher_control/control_servo.py">control_servo</a>
 
 ## Conclusiones
 
