@@ -197,3 +197,12 @@ flowchart TD
 
 A continuación, se presenta la prueba de funcionamiento del sistema desarrollado, en la cual se observa el comportamiento del robot Phantom X Pincher ejecutando movimientos predefinidos y manuales a través de la interfaz gráfica. El video muestra cómo las articulaciones responden de forma secuencial e inmediata según la posición seleccionada, validando así el correcto control del manipulador mediante ROS 2 y el SDK de Dynamixel.
 
+<a href="https://youtu.be/V9QOOdnRqKE">Video del desarrollo</a>
+
+## Conclusiones
+
+Integración de hardware y software con ROS 2: El laboratorio permitió comprender cómo se puede integrar un brazo robótico real, como el Phantom X Pincher, con ROS 2 y Python, logrando un control preciso de sus articulaciones mediante comunicación serial y el uso del Dynamixel SDK.
+
+Importancia de la interfaz gráfica para la interacción humano-robot: La implementación de una GUI con Tkinter demostró ser una herramienta útil y accesible para facilitar el control del robot, permitiendo tanto movimientos predefinidos como entradas manuales, mejorando la interacción y validación visual del sistema.
+
+Comprensión de la cinemática directa y validación práctica: Al traducir ángulos en grados a valores de bits y observar el resultado físico en el robot, se reforzó el conocimiento sobre la cinemática directa, los rangos articulares y la necesidad de realizar conversiones y secuencias lógicas para garantizar un comportamiento seguro y funcional del manipulador.
