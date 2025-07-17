@@ -199,6 +199,8 @@ A continuación, se presenta la prueba de funcionamiento del sistema desarrollad
 
 <a href="https://youtu.be/V9QOOdnRqKE">Video del desarrollo</a>
 
+Por último el código python para el control de los servomotores se encuentra en el directorio <a href="">control_servo</a>
+
 ## Conclusiones
 
 * El laboratorio permitió comprender cómo se puede integrar un brazo robótico real, como el Phantom X Pincher, con ROS 2 y Python, logrando un control preciso de sus articulaciones mediante comunicación serial y el uso del Dynamixel SDK.
