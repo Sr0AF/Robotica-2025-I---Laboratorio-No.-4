@@ -195,6 +195,5 @@ flowchart TD
 
 ## Pruebas de Funcionamiento
 
-
-
+A continuación, se presenta la prueba de funcionamiento del sistema desarrollado, en la cual se observa el comportamiento del robot Phantom X Pincher ejecutando movimientos predefinidos y manuales a través de la interfaz gráfica. El video muestra cómo las articulaciones responden de forma secuencial e inmediata según la posición seleccionada, validando así el correcto control del manipulador mediante ROS 2 y el SDK de Dynamixel.
 
